@@ -1,6 +1,6 @@
 # Linear-Block-Code
-# NAME:KRITHI V
-# REG NUM:212224060128
+# NAME: KRITHI V
+# REG NUM: 212224060128
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
@@ -87,7 +87,7 @@ print("Corrected Codeword :", " ".join(map(str, corrected)))
 <img width="463" height="717" alt="image" src="https://github.com/user-attachments/assets/6f12d41b-b6da-45df-8f41-c45878d40167" />
 
 # Results
-```
+
 Thus linear block code operation for the given input is successfully verified.
-```
+
 
