@@ -84,7 +84,8 @@ corrected = np.mod(r + error, 2)
 print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
 # Output Waveform
-<img width="463" height="717" alt="image" src="https://github.com/user-attachments/assets/6f12d41b-b6da-45df-8f41-c45878d40167" />
+
+<img width="488" height="552" alt="image" src="https://github.com/user-attachments/assets/29c33ebd-36cf-42fd-b632-3b517eaa46d7" />
 
 # Results
 
